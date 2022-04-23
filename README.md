@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, UX/UI
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on website projects
-- 📫 How to reach me linkedin 
+- 📫 How to reach me linkedin https://www.linkedin.com/in/angelachude/
 
 <!---
 KitKatkick/KitKatkick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
